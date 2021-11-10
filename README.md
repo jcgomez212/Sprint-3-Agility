@@ -1,0 +1,2 @@
+# Sprint-3-Agility
+Your group will create 3 Github repositories: Endurance, Accuracy, and Agility, all owned by one member of your group and naming other group members as collaborators. On Sprint completion date, the containing all of the elements outlined in the System Design Document, must be in the group owners repository for the sprint. Group owner of the repository must submit a link to their Sprint repository and upload to ecampus. This will signify that your group completed the sprint on time.
